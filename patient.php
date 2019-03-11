@@ -1,0 +1,4 @@
+<?php 
+include 'index.php';
+ ?>
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ut quasi quo esse magnam ullam tempore, maxime est tenetur laudantium, facilis quibusdam consequuntur aperiam nam, possimus vitae amet! Quasi culpa unde quia molestiae voluptate at laboriosam iusto corporis consectetur, ex sapiente repellat totam exercitationem! Dicta, libero. Aliquam magni enim odit, error quo facilis quia itaque quis eaque molestiae, officia repellendus quasi? Sunt odit asperiores ab quis vero est. Maiores blanditiis aliquid tempore quod nobis quis velit, obcaecati soluta odio id ex. Ad modi quidem dicta dolor, tempore quo soluta, quas perspiciatis quos! Provident dolor laboriosam quos veritatis, eius a beatae?
